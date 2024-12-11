@@ -1,1 +1,10 @@
-links to your github repos in this file
+Links to Github repos:
+
+https://github.com/shereemorrison/gas-reading.git
+Individual project using MicroPython, Typescript, Svelte, SkeletonUI/Tailwind
+
+https://github.com/shereemorrison/Interactive_Recipe_Book.git
+Group project in vanilla Javascript/HTML/CSS
+
+https://github.com/shereemorrison/login-page.git
+Individual project using Typescript, Svelte, SkeletonUI
